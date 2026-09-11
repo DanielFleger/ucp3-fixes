@@ -13,8 +13,3 @@ tags:
 - ai
 - bugfixes
 - economy
-capabilities:
-  files: false
-  code: true
-  configuration: false
-  options: true
